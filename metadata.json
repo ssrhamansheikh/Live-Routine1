@@ -1,0 +1,8 @@
+{
+  "name": "Live Routine",
+  "description": "Class routine, calendar, exam, holiday and attendance manager for BSc Agriculture students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
